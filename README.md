@@ -13,14 +13,18 @@ DetectionDataSet: Converts 640 data sets to detection data sets suitable for Yol
 <br>
 SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet networks
 <br>
-* G-cocci(0_G) : 3371
-* G+cocci(0_G+) : 1462
-* G-bacilli(1_G) : 5799
-* G+bacilli(1_G+) : 1192
+* G-cocci: 3371
+* G+cocci: 1462
+* G-bacilli: 5799
+* G+bacilli: 1192
 
-## 检测
+## Detection
+The effect of target detection network recognition is as follows: 0 represents negative cocci, 1 represents positive cocci, 2 represents negative bacilli and 2 represents positive bacilli.
+<br>
 ![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Detection.png)
 
 
-## 分割
+## Split
+The effect of the segmentation network is as follows, with red representing positive bacteria and green representing negative bacteria.
+<br>
 ![[image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png]
