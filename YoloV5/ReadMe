@@ -1,12 +1,12 @@
-Install
+## Install
 pip install -r requirements.txt  # install
 
-训练：
-MyTrain.py脚本
-修改脚本中的epochs、weightsPath、cfgPath等参数
+## Train
+**Run MyTrain.py**
+<br>
+Modify parameters such as epochs, weightsPath, and cfgPath in the script.
 
-预测：
-MyTest.py脚本
-修改脚本中的expName、weightsPath、dataPath等参数
+## Forecast
+**Run MyTest.py**
+Modify parameters such as expName, weightsPath, and dataPath in the script.
 
-再放一些效果图上去
