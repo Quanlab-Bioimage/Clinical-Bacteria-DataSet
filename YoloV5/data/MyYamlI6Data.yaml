@@ -1,0 +1,5 @@
+train: G:\qxz\MyProject\301Bacteria\DataSet\PaperDataSet301-V2\DetectFourDataSet\txt\train.txt
+val: G:\qxz\MyProject\301Bacteria\DataSet\PaperDataSet301-V2\DetectFourDataSet\txt\val.txt
+test: G:\qxz\MyProject\301Bacteria\DataSet\PaperDataSet301-V2\DetectFourDataSet\txt\test.txt
+nc: 4
+names: ['0', '1', '2', '3']
