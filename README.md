@@ -8,13 +8,11 @@ https://doi.org/10.5281/zenodo.10474234
 * 640DataSet:Selected some large maps from the original large data, cut them into 640 sizes, manually marked the detection box, and segmented the data.
 * DetectionDataSet: Converts 640 data sets to detection data sets suitable for YoloV5 networks.
 * SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet networks
-G-cocci: 3371
-<br>
-G+cocci: 1462
-<br>
- G-bacilli: 5799
-<br>
- G+bacilli: 1192
+  
+  G-cocci: 3371<br>
+  G+cocci: 1462<br>
+  G-bacilli: 5799<br>
+  G+bacilli: 1192<br>
 
 ## Detection
 **The effect of target detection network recognition is as follows: 0 represents negative cocci, 1 represents positive cocci, 2 represents negative bacilli and 2 represents positive bacilli.**
