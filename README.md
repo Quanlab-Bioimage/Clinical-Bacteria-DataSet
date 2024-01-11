@@ -27,4 +27,4 @@ The effect of target detection network recognition is as follows: 0 represents n
 ## Split
 The effect of the segmentation network is as follows, with red representing positive bacteria and green representing negative bacteria.
 <br>
-![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)
+![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)
