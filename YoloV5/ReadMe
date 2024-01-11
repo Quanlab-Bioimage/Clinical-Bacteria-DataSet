@@ -1,12 +1,12 @@
-## Install
+Install
 pip install -r requirements.txt  # install
 
-## Train
-**Run MyTrain.py**
+Train
+Run MyTrain.py
 <br>
 Modify parameters such as epochs, weightsPath, and cfgPath in the script.
 
-## Forecast
-**Run MyTest.py**
+Predict
+Run MyTest.py
 Modify parameters such as expName, weightsPath, and dataPath in the script.
 
