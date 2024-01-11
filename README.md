@@ -23,4 +23,4 @@ SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet netw
 
 
 ## 分割
-![[](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png]
+![[image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png]
