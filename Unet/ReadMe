@@ -1,0 +1,11 @@
+Install:
+https://github.com/wolny/pytorch-3dunet
+
+训练
+Train.py脚本
+修改脚本中的rootPath、trainTxt、valTxt、batchSize等参数
+
+Predict.py脚本
+修改脚本中的root、task、modelPath等参数
+
+放一些效果图
