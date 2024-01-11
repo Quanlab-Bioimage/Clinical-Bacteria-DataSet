@@ -19,3 +19,8 @@ SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet netw
 * G+bacilli(1_G+) : 1192
 
 ## 检测
+![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Detection.png)
+
+
+## 分割
+![[](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png]
