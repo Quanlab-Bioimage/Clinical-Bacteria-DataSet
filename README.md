@@ -3,14 +3,10 @@
 ## DataSet
 https://doi.org/10.5281/zenodo.10474234
 ## DataSet specification
-BigPic: Total 1705 pieces of raw big data.
-<br>
+* BigPic: Total 1705 pieces of raw big data.
 * DeepDataSet:Select some data from the original big picture data to verify the quality of the dataset.
-<br>
 * 640DataSet:Selected some large maps from the original large data, cut them into 640 sizes, manually marked the detection box, and segmented the data.
-<br>
 * DetectionDataSet: Converts 640 data sets to detection data sets suitable for YoloV5 networks.
-<br>
 * SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet networks
 <br>
  G-cocci: 3371
