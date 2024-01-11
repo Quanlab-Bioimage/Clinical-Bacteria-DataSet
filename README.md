@@ -5,18 +5,21 @@ https://doi.org/10.5281/zenodo.10474234
 ## DataSet specification
 BigPic: Total 1705 pieces of raw big data.
 <br>
-DeepDataSet:Select some data from the original big picture data to verify the quality of the dataset.
+* DeepDataSet:Select some data from the original big picture data to verify the quality of the dataset.
 <br>
-640DataSet:Selected some large maps from the original large data, cut them into 640 sizes, manually marked the detection box, and segmented the data.
+* 640DataSet:Selected some large maps from the original large data, cut them into 640 sizes, manually marked the detection box, and segmented the data.
 <br>
-DetectionDataSet: Converts 640 data sets to detection data sets suitable for YoloV5 networks.
+* DetectionDataSet: Converts 640 data sets to detection data sets suitable for YoloV5 networks.
 <br>
-SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet networks
+* SplitDataSet: Transforms 640 datasets into split datasets suitable for Unet networks
 <br>
-* G-cocci: 3371
-* G+cocci: 1462
-* G-bacilli: 5799
-* G+bacilli: 1192
+ G-cocci: 3371
+<br>
+ G+cocci: 1462
+<br>
+ G-bacilli: 5799
+<br>
+ G+bacilli: 1192
 
 ## Detection
 **The effect of target detection network recognition is as follows: 0 represents negative cocci, 1 represents positive cocci, 2 represents negative bacilli and 2 represents positive bacilli.**
