@@ -1,5 +1,5 @@
 # 301RoseDataSet
-**we collected Gram-stained bacteria images from lower respiratory tract specimens of patients with lung infections in Chinese PLA General Hospital obtained by M-ROSE from 2018 to 2022 and desensitized these images to produce 1705 images (4,912 × 3,684 pixels).**
+** we collected Gram-stained bacteria images from lower respiratory tract specimens of patients with lung infections in Chinese PLA General Hospital obtained by M-ROSE from 2018 to 2022 and desensitized these images to produce 1705 images (4,912 × 3,684 pixels). A total of 4,833 cocci and 6,991 bacilli were manually labelled and differentiated into negative and positive. In addition, we further benchmark the network and construct a cascade detection and semantic segmentation network that achieves over 85% accuracy for the recognition of both positive/negative cocci and positive/negative bacilli. Data and benchmark algorithms we provided that may benefit the study of automated bacterial identification in clinical specimens.**
 ## DataSet
 https://doi.org/10.5281/zenodo.10474234
 ## DataSet specification
