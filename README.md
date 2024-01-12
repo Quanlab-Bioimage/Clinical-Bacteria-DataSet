@@ -14,13 +14,13 @@ https://doi.org/10.5281/zenodo.10474234
   G-bacilli: 5799<br>
   G+bacilli: 1192<br>
 
-## Detection
+## Object detection
 **The effect of target detection network recognition is as follows: 0 represents negative cocci, 1 represents positive cocci, 2 represents negative bacilli and 2 represents positive bacilli.**
 <br>
 ![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Detection.png)
 
 
-## Split
+## Semantic segmentation
 **The effect of the segmentation network is as follows, with red representing positive bacteria and green representing negative bacteria.**
 <br>
 ![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Split.png)
