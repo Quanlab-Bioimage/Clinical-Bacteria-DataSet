@@ -15,7 +15,7 @@ https://doi.org/10.5281/zenodo.10474234
   G+bacilli: 1192<br>
 
 ## Detection
-**The effect of target detection network recognition is as follows: 0 represents negative cocci, 1 represents positive cocci, 2 represents negative bacilli and 2 represents positive bacilli.**
+**The effect of target detection network recognition is as follows: 0 represents negative cocci, 1 represents positive cocci, 2 represents negative bacilli and 3 represents positive bacilli.**
 <br>
 ![image](https://github.com/Quanlab-Bioimage/301RoseDataSet/blob/main/images/Detection.png)
 
