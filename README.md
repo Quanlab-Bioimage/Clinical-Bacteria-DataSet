@@ -1,4 +1,4 @@
-# Clinical bacteria DataSet
+# Clinical Bacteria DataSet
 **This dataset comprises Gram-stained bacteria images obtained using M-ROSE from lower respiratory tract specimens of patients with lung infection from 2018 to 2022 at the Chinese PLA General Hospital. 1705 images (4,912 × 3,684 pixels) were desensitized and constituted RawImageDataSet. A total of 4,833 cocci and 6,991 bacilli were manually labeled and differentiated into negative and positive categories. 
 Additionally, we have also employed a cascade detection and semantic segmentation network for bacteria identification that achieved over 85% accuracy. DeepDataSet was constructed to verify the dataset quality, which includes 640DataSet, DetectionDataSet, and SegmentationDataSet applied to train deep learning networks directly. The data and benchmark algorithms we provide may contribute to the study of automated bacterial identification in clinical specimens.**
 ## DataSet
